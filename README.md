@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/osdeibi-mcp-typebot-badge.png)](https://mseep.ai/app/osdeibi-mcp-typebot)
+
 # MCP-Typebot
 
 A small MCP server that exposes Typebot’s REST API as callable tools in Claude Desktop (via STDIO).
